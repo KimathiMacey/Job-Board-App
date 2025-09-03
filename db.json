@@ -15,7 +15,7 @@
       "role": "user"
     },
     {
-      "id": 1756707373914,
+      "id": "1756707373914",
       "name": "Stacey Kimathi",
       "email": "staceykimathi@gmail.com",
       "password": "Banana",
@@ -29,10 +29,17 @@
       "role": "admin"
     },
     {
-      "id": 1756712898773,
+      "id": "1756712898773",
       "name": "James Bond",
       "email": "jamesbond@gmail.com",
       "password": "Banana",
+      "role": "user"
+    },
+    {
+      "id": "1756900468851",
+      "name": "Peter Kimathi",
+      "email": "peterkimathi@gmail.com",
+      "password": "peterkimathi",
       "role": "user"
     }
   ],
@@ -43,13 +50,6 @@
       "company": "Tech Corp",
       "location": "Remote",
       "description": "Build user interfaces with React."
-    },
-    {
-      "id": "2",
-      "title": "Backend Developer",
-      "company": "DevWorks",
-      "location": "Nairobi",
-      "description": "Work with Node.js and databases."
     },
     {
       "id": "3",
@@ -108,7 +108,7 @@
       "description": "Lead product development and manage cross-functional teams."
     },
     {
-      "id": 1756837153612,
+      "id": "1756837153612",
       "title": "Software Developer",
       "company": "Trinova",
       "location": "Remote",

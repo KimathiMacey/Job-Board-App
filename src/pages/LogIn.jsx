@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import axios from "axios";
 
-export default function LogIn() {
+export default function LogIn({ setUser }) {   //  accept setUser from App.jsx
   const navigate = useNavigate();
   const [formData, setFormData] = useState({
     email: "",
@@ -32,6 +32,7 @@ export default function LogIn() {
       if (user) {
         // Save to localStorage
         localStorage.setItem("user", JSON.stringify(user));
+        setUser(user); // 👈 update App state so protected routes unlock
 
         // Redirect based on role
         if (user.role === "admin") {
