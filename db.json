@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "5a7d",
+      "name": "Macey Kimathi",
+      "email": "chichimacey@gmail.com",
+      "password": "CrystalD",
+      "role": "user"
+    },
+    {
+      "id": "1756287183722",
+      "name": "Dulcey Koki",
+      "email": "dulceykoki@gmail.com",
+      "password": "Banana",
+      "role": "user"
+    },
+    {
+      "id": 1756707373914,
+      "name": "Stacey Kimathi",
+      "email": "staceykimathi@gmail.com",
+      "password": "Banana",
+      "role": "user"
+    },
+    {
+      "id": "admin-1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 1756712898773,
+      "name": "James Bond",
+      "email": "jamesbond@gmail.com",
+      "password": "Banana",
+      "role": "user"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Corp",
+      "location": "Remote",
+      "description": "Build user interfaces with React."
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "DevWorks",
+      "location": "Nairobi",
+      "description": "Work with Node.js and databases."
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "company": "Creative Studio",
+      "location": "Mombasa",
+      "description": "Design modern user experiences."
+    },
+    {
+      "id": "4",
+      "title": "Full Stack Engineer",
+      "company": "CloudNet",
+      "location": "Kisumu",
+      "description": "Develop and maintain scalable web applications."
+    },
+    {
+      "id": "5",
+      "title": "Data Scientist",
+      "company": "Insight Analytics",
+      "location": "Remote",
+      "description": "Analyze large datasets and build predictive models."
+    },
+    {
+      "id": "6",
+      "title": "Mobile App Developer",
+      "company": "AppWorks",
+      "location": "Nairobi",
+      "description": "Create Android and iOS apps with React Native."
+    },
+    {
+      "id": "7",
+      "title": "Cybersecurity Specialist",
+      "company": "SecureTech",
+      "location": "Eldoret",
+      "description": "Implement security measures to protect company systems."
+    },
+    {
+      "id": "8",
+      "title": "DevOps Engineer",
+      "company": "BuildOps",
+      "location": "Remote",
+      "description": "Automate deployments and manage cloud infrastructure."
+    },
+    {
+      "id": "9",
+      "title": "AI Engineer",
+      "company": "FutureAI",
+      "location": "Nairobi",
+      "description": "Design and deploy AI-driven applications."
+    },
+    {
+      "id": "10",
+      "title": "Product Manager",
+      "company": "VisionTech",
+      "location": "Mombasa",
+      "description": "Lead product development and manage cross-functional teams."
+    },
+    {
+      "id": 1756837153612,
+      "title": "Software Developer",
+      "company": "Trinova",
+      "location": "Remote",
+      "description": "Develop and maintain scalable web applications."
+    }
+  ]
+}
